@@ -1,15 +1,7 @@
-![Ricardo Rosales](images/3DTicTacToe.PNG)
 # # 3D Tic-Tac-Toe
 
 ## <span style="color: rgb(26, 99, 169);">example</span>
-
-```
-// =========================================================
-// File: main.cpp
-// Author: Edward Elric - A00123456
-// Date: 01/01/2021
-// =========================================================
-```
+![Ricardo Rosales](images/3DTicTacToe.PNG)
 
 ## <span style="color: rgb(26, 99, 169);">Object Oriented Programin concepts</span>
     *Abstraction: to model real life objects into a virtual enviroment.
